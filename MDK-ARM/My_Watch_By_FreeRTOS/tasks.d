@@ -1,0 +1,16 @@
+my_watch_by_freertos\tasks.o: FreeRTOS\src\tasks.c
+my_watch_by_freertos\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+my_watch_by_freertos\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/FreeRTOS.h
+my_watch_by_freertos\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+my_watch_by_freertos\tasks.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/FreeRTOSConfig.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/projdefs.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/portable.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/deprecated_definitions.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/portmacro.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/mpu_wrappers.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/task.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/list.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/timers.h
+my_watch_by_freertos\tasks.o: ./FreeRTOS/include/stack_macros.h

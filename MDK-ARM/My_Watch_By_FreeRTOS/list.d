@@ -1,0 +1,12 @@
+my_watch_by_freertos\list.o: FreeRTOS\src\list.c
+my_watch_by_freertos\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/FreeRTOS.h
+my_watch_by_freertos\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+my_watch_by_freertos\list.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/FreeRTOSConfig.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/projdefs.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/portable.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/deprecated_definitions.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/portmacro.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/mpu_wrappers.h
+my_watch_by_freertos\list.o: ./FreeRTOS/include/list.h

@@ -1,0 +1,10 @@
+my_watch_by_freertos\mui_u8g2.o: u8g2\mui_u8g2.c
+my_watch_by_freertos\mui_u8g2.o: u8g2\mui.h
+my_watch_by_freertos\mui_u8g2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+my_watch_by_freertos\mui_u8g2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_watch_by_freertos\mui_u8g2.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+my_watch_by_freertos\mui_u8g2.o: u8g2\u8g2.h
+my_watch_by_freertos\mui_u8g2.o: u8g2\u8x8.h
+my_watch_by_freertos\mui_u8g2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+my_watch_by_freertos\mui_u8g2.o: D:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+my_watch_by_freertos\mui_u8g2.o: u8g2\mui_u8g2.h

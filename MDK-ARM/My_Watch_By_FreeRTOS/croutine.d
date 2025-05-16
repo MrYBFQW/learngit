@@ -1,0 +1,13 @@
+my_watch_by_freertos\croutine.o: FreeRTOS\src\croutine.c
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/FreeRTOS.h
+my_watch_by_freertos\croutine.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+my_watch_by_freertos\croutine.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/FreeRTOSConfig.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/projdefs.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/portable.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/deprecated_definitions.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/portmacro.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/mpu_wrappers.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/task.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/list.h
+my_watch_by_freertos\croutine.o: ./FreeRTOS/include/croutine.h
